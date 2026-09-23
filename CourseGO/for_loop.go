@@ -2,7 +2,7 @@ package coursego
 
 import "fmt"
 
-func main() {
+func forl() {
 
 	// simple for
 	// for i := 1; i <= 5; i++ {

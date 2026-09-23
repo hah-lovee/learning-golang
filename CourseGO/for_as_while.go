@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func main() {
+func while() {
 
 	// i := 1
 	// for i <= 5 {
