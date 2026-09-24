@@ -2,7 +2,7 @@ package coursego
 
 import "fmt"
 
-func main() {
+func funcs() {
 
 	defer func() {
 		fmt.Println("я defer")
